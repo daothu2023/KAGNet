@@ -1,4 +1,4 @@
-"""KAGNet model: six independent GCN branches, each with its own projection,
+"""KAGNet model: 6 independent GCN branches, each with its own projection,
 AlphaGenome-pretrained encoder, and MLP classifier, fused by averaging
 branch-level probabilities.
 """
