@@ -64,7 +64,7 @@ names as above: `CPDB, STRING, MULTINET, PCNet, IRefIndex, IRefIndex_2015`.
 
 ## Requirements
 
-- Python 3.9+
+- python 3.9+
 - torch >= 2.0
 - torch-geometric >= 2.4
 - numpy >= 1.24
